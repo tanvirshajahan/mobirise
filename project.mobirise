@@ -478,6 +478,9 @@
             ".input-group-btn": {
               "display": "block",
               "text-align": "center"
+            },
+            "H2": {
+              "color": "#ff3366"
             }
           },
           "_name": "form1",
